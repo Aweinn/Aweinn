@@ -1,4 +1,4 @@
-[![MasterHead](https://www.veridyen.com/blog/wp-content/uploads/2021/08/veridyen-blog-javascript-nedir-nasil-kullanilir-01.jpeg)
+[![MasterHead](https://northsoft.co/blog/wp-content/uploads/2022/11/image-1024x538.jpeg)
 <h1 align="center">Hi 👋, I'm Awein</h1>
 <h3 align="center">Selam Ben Awein Türkiyede Yaşayan Bır Bot Developerıyım.Yaklasık 1 Senedır Sunuculara Ozel Ucretlı Botlar Tasarlıyorum Sende Istersen Dıscord Adresıne Gelebılırsın.</h3>
 
@@ -10,8 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/emirerykk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emirerykk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rlx bot's" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rlx bot's" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Rlx Bot's" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rlx bot's" height="30" width="40" /></a>
 <a href="https://discord.gg/989857974904324116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="989857974904324116" height="30" width="40" /></a>
 </p>
 
